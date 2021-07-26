@@ -1013,13 +1013,7 @@ Features Style
   background-image: url(https://srgit55.github.io/theblogtool/features-number-04.png);
 }
 
-.first-feature .icon {
-  background-image: url(https://srgit55.github.io/theblogtool/reach.png);
-}
 
-.second-feature .icon {
-  background-image: url(https://srgit55.github.io/theblogtool/strategy.png);
-}
 
 .features-item .icon {
   width: 63px;
