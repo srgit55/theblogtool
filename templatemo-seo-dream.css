@@ -1020,13 +1020,7 @@ Features Style
 .second-feature .icon {
   background-image: url(https://srgit55.github.io/theblogtool/strategy.png);
 }
-.third-feature .icon {
-  background-image: url(https://srgit55.github.io/theblogtool/implementation.png);
-}
 
-.second-feature .icon {
-  background-image: url(https://srgit55.github.io/theblogtool/interpretation.png);
-}
 .features-item .icon {
   width: 63px;
   height: 63px;
