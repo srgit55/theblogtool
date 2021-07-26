@@ -1013,6 +1013,14 @@ Features Style
   background-image: url(https://srgit55.github.io/theblogtool/features-number-04.png);
 }
 
+.first-feature .icon {
+  background-image: url(https://srgit55.github.io/theblogtool/features-icon-black-01.png);
+}
+
+.second-feature .icon {
+  background-image: url(https://srgit55.github.io/theblogtool/features-icon-black-02.png);
+}
+
 .features-item .icon {
   width: 63px;
   height: 63px;
